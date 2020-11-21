@@ -90,7 +90,6 @@
         <a href="https://www.internetingishard.com/html-and-css/floats/">Read: Floats</a>
   </td>
   <td>
-    <a href="w01/d3/js-functions-lab.md">Lab: JS Functions (Deliverable #3)</a><br /><strong>Due: Next Wednesday</strong> <br /><em>(ideal: tonight)</em></br></br>
     <a href="w01/d3/css-selectors-lab">CSS Selectors Lab (Deliverable)</a></br></br>
     <a href="https://flukeout.github.io/">Play: CSS Diner</a></br></br>
     <a href="https://www.internetingishard.com/html-and-css/forms/">Read: Forms</a>
