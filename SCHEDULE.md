@@ -85,11 +85,11 @@
     <a href="w01/d2/js-arrays-lab.md">Lab: JS Arrays (Deliverable #1)</a><br /> <strong>Due: Next Tuesday</strong> <br /><em>(ideal: tonight)</em></br></br>
     <a href="https://www.internetingishard.com/html-and-css/links-and-images/">Read Interneting Is Hard: Links and Images</a></br></br>
     <a href="https://www.internetingishard.com/html-and-css/hello-css/">Read Interneting Is Hard: Hello CSS</a></br></br>
-    <a href="https://www.internetingishard.com/html-and-css/css-box-model/">Read Interneting Is Hard: CSS Box Model</a>
+    <a href="https://www.internetingishard.com/html-and-css/css-box-model/">Read Interneting Is Hard: CSS Box Model</a><br>
+    <a href="https://www.internetingishard.com/html-and-css/css-selectors/">Read Interneting Is Hard: CSS Selectors</a>
   </td>
   <td>
     <a href="w01/d3/js-functions-lab.md">Lab: JS Functions (Deliverable #3)</a><br /><strong>Due: Next Wednesday</strong> <br /><em>(ideal: tonight)</em></br></br>
-    <a href="https://www.internetingishard.com/html-and-css/css-selectors/">Read Interneting Is Hard: CSS Selectors</a></br></br>
     <a href="w01/d3/css-selectors-lab">CSS Selectors Lab (Deliverable)</a></br></br>
     <a href="https://flukeout.github.io/">CSS Diner</a></br></br>
   </td>
