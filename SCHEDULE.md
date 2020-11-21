@@ -36,11 +36,13 @@
     <a href="w01/d3/css-selectors-lab">CSS Selectors Lab (Deliverable #2)</a><br /> <strong>Due: Next Wednesday</strong>
   </td>
   <td>
-    <a href="w01/d4/js-objects.md">JS Objects</a></br></br>
-    <a href="w01/d4/js-objects-lab.md">Lab: Guess the Number</a>
+      <a href="w01/d3/js-functions-and-scope.md">JS Functions & Scope</a></br></br>
+      <a href="w01/d3/js-functions-lab.md">Lab: JS Functions (Deliverable #3)</a><br /><strong>Due: Next Wednesday</strong> <br /><em>(ideal: tonight)</em>
+      <a href="w01/d4/dom-intro.md">Intro to the DOM</a></br></br>
   </td>
   <td>
-    <a href="w01/d5/dom-events.md">DOM Events</a>
+    <a href="w02/d1/css-flexbox-grid.md">CSS Flexbox & Grid</a></br></br>
+    <a href="w02/d1/css-flexbox-grid-lab">CSS Flexbox & Grid Lab (Deliverable #7)</a></br><strong>Due: Next Monday</strong>    
   </td>
 </tr>
 
@@ -57,19 +59,17 @@
     <a href="w01/d2/js-arrays-lab.md">Lab: JS Arrays (Deliverable #1)</a><br /> <strong>Due: Next Tuesday</strong> <br /><em>(ideal: tonight)</em>
   </td>
   <td>
-    <a href="w01/d3/js-functions-and-scope.md">JS Functions & Scope</a></br></br>
-    <a href="w01/d3/js-functions-lab.md">Lab: JS Functions (Deliverable #3)</a><br /><strong>Due: Next Wednesday</strong> <br /><em>(ideal: tonight)</em>
+    <a href="w01/d4/js-objects.md">JS Objects</a></br></br>
+    <a href="w01/d4/js-objects-lab.md">Lab: Guess the Number</a>
   </td>
   <td>
-    <a href="w01/d4/dom-intro.md">Intro to the DOM</a></br></br>
-    <b>Outcomes with George the Career Coach (1:45-3:3:45)<br /><br />
+    <a href="w01/d5/dom-events.md">DOM Events</a>
+    <b>Outcomes with Zoe the Career Coach (1:45-3:3:45)<br /><br />
     <a href="w01/d4/dom-practice-lab-1.md">DOM Lab Part 1 (Deliverable #4)</a></br><strong>Due: Next Thursday</strong>
   </td>
   <td>
-    JS Timers (optional) </br></br>
-    <a href="w01/d5/js-callbacks.md">JavaScript Callbacks</a></br></br>
-    <a href="w01/d5/js-callbacks-lab.md">JavaScript Callbacks Lab</a></br></br>
-    <a href="w01/d5/guide-to-building-a-browser-game.md">Build a Browser Game</a>
+    <a href="w02/d1/responsive-design.md">Responsive Design</a></br></br>
+    <a href="w02/d1/media-queries-lab.md">Media Queries Lab</a>
   </td>
 </tr>
 
@@ -95,14 +95,15 @@
   </td>
   <td>
     <a href="w01/d4/dom-practice-lab-1.md">DOM Lab Part 1 (Deliverable #4)</a></br><strong>Due: Next Thursday</strong></br></br>
-    <a href="https://www.youtube.com/watch?v=8aGhZQkoFbQ">Watch: What is the Event Loop?</a></br></br>
     <a href="https://www.internetingishard.com/html-and-css/floats/">Read Interneting Is Hard: Floats</a></br></br>
     <a href="https://www.internetingishard.com/html-and-css/semantic-html/">Read Interneting Is Hard: Semantic HTML</a></br></br>
     <a href="https://www.internetingishard.com/html-and-css/forms/">Read Interneting Is Hard: Forms</a>
   </td>
   <td>
-    <a href="w01/d5/dom-practice-lab-2.md">DOM Lab Part 2 (Deliverable #5)</a></br><strong>Due: Next Friday</strong></br></br>
-    <a href="w01/d5/tic-tac-toe">Tic Tac Toe (Deliverable #6)</a></br><strong>Due: Next Friday</strong><br /><em>(ideal: Sunday)</em></br><br />
+    <a href="w02/d1/css-flexbox-grid-lab">CSS Flexbox & Grid Lab (Deliverable #7)</a></br><strong>Due: Next Monday</strong></br></br>
+    <a href="w02/d1/media-queries-lab.md">Media Queries Lab</a></br></br>
+    <a href="https://flexboxfroggy.com/">Flexbox Froggy</a></br></br>
+    <a href="https://cssgridgarden.com/">CSS Grid Garden</a><br>br>
     <a href="https://www.internetingishard.com/html-and-css/flexbox/">Read Interneting Is Hard: Flexbox</a></br></br>
     <a href="https://www.internetingishard.com/html-and-css/advanced-positioning/">Read Interneting Is Hard: Advanced Positioning</a></br></br>
     <a href="https://www.internetingishard.com/html-and-css/responsive-design/">Read Interneting Is Hard: Responsive Design</a></br></br>
