@@ -82,7 +82,6 @@
     <a href="https://www.internetingishard.com/html-and-css/basic-web-pages/">Read: Basic Web Pages</a>
   </td>
   <td>
-    <a href="w01/d2/js-arrays-lab.md">Lab: JS Arrays (Deliverable #1)</a><br /> <strong>Due: Next Tuesday</strong> <br /><em>(ideal: tonight)</em></br></br>
     <a href="https://www.internetingishard.com/html-and-css/links-and-images/">Read: Links and Images</a></br></br>
     <a href="https://www.internetingishard.com/html-and-css/hello-css/">Read: Hello CSS</a></br></br>
     <a href="https://www.internetingishard.com/html-and-css/css-box-model/">Read: CSS Box Model</a>, 
