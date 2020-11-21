@@ -19,14 +19,14 @@ This will be your shared class repo! Guides, in-class labs and code samples, and
 
 ### Course Dates and Holidays
 
-- Course duration: Monday, July 13th, 2020 - Friday, October 2nd, 2020 (12 weeks)
+- Course duration: Monday, November 23rd, 2020 - Friday, February 26, 2021 (12 weeks)
 - Holidays:
-	- Monday, August 3rd (Simcoe Day)
-	- Monday, September 7th (Labour Day)
+	- Saturday, December 19, 2020 - Sunday, January 3rd, 2021 (Holiday Break)
+	- Monday, February 15th (Family Day)
 
 ### Link to Zoom Room
 
-[Link to join the Zoom Room](https://generalassembly.zoom.us/j/96334798267?pwd=RTZwbEhKQUtaRy9ZNTVOYStVU2R0dz09)
+[Link to join the Zoom Room](https://generalassembly.zoom.us/j/91704689350?pwd=aDJTU0ZmbmVhMlFKYVlEZVp2T0dBQT09)
 
 ### Course Curriculum
 
@@ -235,14 +235,20 @@ During group project merge conflicts will likely occur giving you an opportunity
 
 ### Daily Code Challenges
 
-There will be 30 required code challenges that will help you get more practice writing code, as well as teach you new methods and techniques. These coding challenges start during week 3 and will continue through week 8 (excluding project week).
+There are 30 <strong>required</strong> code challenges that will help you get the necessary practice of writing code, as well as teach you new methods and techniques.
+
+Just as with the class repo, you will fork & clone [the code challenges repo](https://git.generalassemb.ly/sei-toronto/daily-code-challenges). (Let the instructor know if you can't access the repo!)
+
+These coding challenges start at the end of week 1 (once you've learned javascript functions) and will continue through week 12 (excluding project weeks). You may choose to do more than one per day, or none at all - just don't fall too far behind!
+
 
 ### Additional Coding Practice Resources
 
 If/when you find yourself with extra time, look into these external resources:
 
+- [Edabit](https://edabit.com/challenges/javascript) <- especially great for true beginners
 - [Codewars](https://www.codewars.com/)
-- [LeetCode](https://www.leetcode.com/)
+- [LeetCode](https://www.leetcode.com/) <- medium to difficult interview questions
 - [CodeSignal](https://codesignal.com/)
 - [HackerRank](https://www.hackerrank.com/)
 - [Advent of Code](https://adventofcode.com/)
