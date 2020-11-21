@@ -112,14 +112,14 @@ Unless otherwise stated, no deliverable will be accepted past its due date, whic
 
 Graduation requires that 80% of deliverables be completed (working) and delivered on time.
 
-[The Deliverables are listed in the Schedule](./SCHEDULE.md)
+[The Deliverables will be listed in the Schedule](./SCHEDULE.md)
 
-[Repo to submit Deliverables](https://git.generalassemb.ly/sei-toronto/sei-33-5-deliverables)
+[Repo to submit Deliverables](https://git.generalassemb.ly/sei-toronto/sei-36-8-deliverables)
 
 ### Class Repo Structure
 
 ```
-/sei-33-5
+/sei-36-8
   /assessments
   /computer-science
   /projects
@@ -140,10 +140,8 @@ Graduation requires that 80% of deliverables be completed (working) and delivere
 You will have read-only access to the GA class repo.  However, you most certainly will want to be able to make changes (e.g., add notes, save code exercises, etc).  These changes will be saved to your own personal copy of GA's Student repo - known as a **fork**. To get this fork do the following:
 
 1. Make sure that you're logged in to your GA **Enterprise** GitHub account. If you have not signed up yet, here's the link to do so: [https://git.generalassemb.ly/join?source=header](https://git.generalassemb.ly/join?source=header)
-2. In another tab, browse to the GA class repo:  [https://git.generalassemb.ly/sei-toronto/sei-33-5](https://git.generalassemb.ly/sei-toronto/sei-33-5)
-3. In the top-right corner of the page, click the `Fork` button.
-SEI-33-5
-Now you will have a copy of the repo in **your** Enterprise GitHub account!
+2. In another tab, browse to the GA class repo:  [https://git.generalassemb.ly/sei-toronto/sei-36-8](https://git.generalassemb.ly/sei-toronto/sei-36-8)
+3. In the top-right corner of the page, click the `Fork` button. Now you will have a copy of the repo in **your** Enterprise GitHub account!
 
 #### Cloning Your Copy of the Repository Locally
 
