@@ -22,8 +22,7 @@
 <tr>
   <td><strong>Morning</strong></td>
   <td>
-    Orientation
-    </br>
+    Orientation</br>
     <a href="w01/d1/installfest.md">Installfest</a>
   </td>
   <td>
@@ -81,7 +80,6 @@
     <a href="w01/d1/git-intro-workflow.md">Review how to use git</a></br></br>
   </td>
   <td>
-  
     <a href="https://www.internetingishard.com/html-and-css/introduction/">Read: HTML & CSS: Introduction</a>, 
     <a href="https://www.internetingishard.com/html-and-css/basic-web-pages/">Basic Web Pages</a>, and
     <a href="https://www.internetingishard.com/html-and-css/links-and-images/">Links and Images</a></br></br>
