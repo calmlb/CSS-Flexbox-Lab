@@ -37,8 +37,8 @@
   </td>
   <td>
       <a href="w01/d3/js-functions-and-scope.md">JS Functions & Scope</a></br></br>
-      <a href="w01/d3/js-functions-lab.md">Lab: JS Functions (Deliverable #3)</a><br /><strong>Due: Next Wednesday</strong> <br /><em>(ideal: tonight)</em>
-      <a href="w01/d4/dom-intro.md">Intro to the DOM</a></br></br>
+      <a href="w01/d3/js-functions-lab.md">Lab: JS Functions (Deliverable #3)</a><br /><strong>Due: Next Wednesday</strong> <br /><em>(ideal: tonight)</em><br><br>
+      <a href="w01/d4/dom-intro.md">Intro to the DOM</a>
   </td>
   <td>
     <a href="w02/d1/css-flexbox-grid.md">CSS Flexbox & Grid</a></br></br>
@@ -63,7 +63,7 @@
     <a href="w01/d4/js-objects-lab.md">Lab: Guess the Number</a>
   </td>
   <td>
-    <a href="w01/d5/dom-events.md">DOM Events</a>
+    <a href="w01/d5/dom-events.md">DOM Events</a><br><br>
     <b>Outcomes with Zoe the Career Coach (1:45-3:3:45)<br /><br />
     <a href="w01/d4/dom-practice-lab-1.md">DOM Lab Part 1 (Deliverable #4)</a></br><strong>Due: Next Thursday</strong>
   </td>
