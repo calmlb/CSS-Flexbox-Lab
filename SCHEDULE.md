@@ -41,7 +41,7 @@
   </td>
   <td>
     <a href="w02/d1/css-flexbox-grid.md">CSS Flexbox & Grid</a></br></br>
-    <a href="w02/d1/css-flexbox-grid-lab">CSS Flexbox & Grid Lab (Deliverable #7)</a></br><strong>Due: Next Monday</strong>    
+    <a href="w02/d1/css-flexbox-grid-lab">CSS Flexbox & Grid Lab (Deliverable #6)</a></br><strong>Due: Next Monday</strong>    
   </td>
 </tr>
 
