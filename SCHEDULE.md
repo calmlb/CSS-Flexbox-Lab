@@ -79,35 +79,34 @@
     <a href="w01/d1/hw-markdown-intro.md">Intro to Markdown</a></br></br>
     <a href="w01/d1/git-intro-workflow.md">Review how to use git</a></br></br>
     <a href="https://www.internetingishard.com/html-and-css/introduction/">Read Interneting Is Hard: Introduction</a></br></br>
-    <a href="https://www.internetingishard.com/html-and-css/basic-web-pages/">Read Interneting Is Hard: Basic Web Pages</a>
+    <a href="https://www.internetingishard.com/html-and-css/basic-web-pages/">Read: Basic Web Pages</a>
   </td>
   <td>
     <a href="w01/d2/js-arrays-lab.md">Lab: JS Arrays (Deliverable #1)</a><br /> <strong>Due: Next Tuesday</strong> <br /><em>(ideal: tonight)</em></br></br>
-    <a href="https://www.internetingishard.com/html-and-css/links-and-images/">Read Interneting Is Hard: Links and Images</a></br></br>
-    <a href="https://www.internetingishard.com/html-and-css/hello-css/">Read Interneting Is Hard: Hello CSS</a></br></br>
-    <a href="https://www.internetingishard.com/html-and-css/css-box-model/">Read Interneting Is Hard: CSS Box Model</a><br>
-    <a href="https://www.internetingishard.com/html-and-css/css-selectors/">Read Interneting Is Hard: CSS Selectors</a>
+    <a href="https://www.internetingishard.com/html-and-css/links-and-images/">Read: Links and Images</a></br></br>
+    <a href="https://www.internetingishard.com/html-and-css/hello-css/">Read: Hello CSS</a></br></br>
+    <a href="https://www.internetingishard.com/html-and-css/css-box-model/">Read: CSS Box Model</a><br>
+    <a href="https://www.internetingishard.com/html-and-css/css-selectors/">Read: CSS Selectors</a>
+        <a href="https://www.internetingishard.com/html-and-css/floats/">Read: Floats</a></br></br>
   </td>
   <td>
     <a href="w01/d3/js-functions-lab.md">Lab: JS Functions (Deliverable #3)</a><br /><strong>Due: Next Wednesday</strong> <br /><em>(ideal: tonight)</em></br></br>
     <a href="w01/d3/css-selectors-lab">CSS Selectors Lab (Deliverable)</a></br></br>
-    <a href="https://flukeout.github.io/">CSS Diner</a></br></br>
+    <a href="https://flukeout.github.io/">Play: CSS Diner</a></br></br>
+    <a href="https://www.internetingishard.com/html-and-css/forms/">Read: Forms</a>
   </td>
   <td>
     <a href="w01/d4/dom-practice-lab-1.md">DOM Lab Part 1 (Deliverable #4)</a></br><strong>Due: Next Thursday</strong></br></br>
-    <a href="https://www.internetingishard.com/html-and-css/floats/">Read Interneting Is Hard: Floats</a></br></br>
-    <a href="https://www.internetingishard.com/html-and-css/semantic-html/">Read Interneting Is Hard: Semantic HTML</a></br></br>
-    <a href="https://www.internetingishard.com/html-and-css/forms/">Read Interneting Is Hard: Forms</a>
+    <a href="https://www.internetingishard.com/html-and-css/flexbox/">Read: Flexbox</a></br></br>
+    <a href="https://www.internetingishard.com/html-and-css/advanced-positioning/">Read: Advanced Positioning</a></br></br>
+    <a href="https://www.internetingishard.com/html-and-css/responsive-design/">Read: Responsive Design</a></br></br>
+    <a href="https://www.internetingishard.com/html-and-css/responsive-images/">Read: Responsive Images</a>
   </td>
   <td>
     <a href="w02/d1/css-flexbox-grid-lab">CSS Flexbox & Grid Lab (Deliverable #7)</a></br><strong>Due: Next Monday</strong></br></br>
     <a href="w02/d1/media-queries-lab.md">Media Queries Lab</a></br></br>
-    <a href="https://flexboxfroggy.com/">Flexbox Froggy</a></br></br>
-    <a href="https://cssgridgarden.com/">CSS Grid Garden</a><br>br>
-    <a href="https://www.internetingishard.com/html-and-css/flexbox/">Read Interneting Is Hard: Flexbox</a></br></br>
-    <a href="https://www.internetingishard.com/html-and-css/advanced-positioning/">Read Interneting Is Hard: Advanced Positioning</a></br></br>
-    <a href="https://www.internetingishard.com/html-and-css/responsive-design/">Read Interneting Is Hard: Responsive Design</a></br></br>
-    <a href="https://www.internetingishard.com/html-and-css/responsive-images/">Read Interneting Is Hard: Responsive Images</a>
+    <a href="https://flexboxfroggy.com/">Play: Flexbox Froggy</a></br></br>
+    <a href="https://cssgridgarden.com/">Play: CSS Grid Garden</a><br>br>
     </br>
   </td>
 </tr>
