@@ -89,19 +89,16 @@
         <a href="https://www.internetingishard.com/html-and-css/floats/">Floats</a>
   </td>
   <td>
-    <a href="w01/d3/css-selectors-lab">CSS Selectors Lab (Deliverable)</a></br></br>
     <a href="https://flukeout.github.io/">Play: CSS Diner</a></br></br>
     <a href="https://www.internetingishard.com/html-and-css/forms/">Read: Forms</a>
   </td>
   <td>
-    <a href="w01/d4/dom-practice-lab-1.md">DOM Lab Part 1 (Deliverable #4)</a></br><strong>Due: Next Thursday</strong></br></br>
     <a href="https://www.internetingishard.com/html-and-css/flexbox/">Read: Flexbox</a></br></br>
     <a href="https://www.internetingishard.com/html-and-css/advanced-positioning/">Read: Advanced Positioning</a></br></br>
     <a href="https://www.internetingishard.com/html-and-css/responsive-design/">Read: Responsive Design</a></br></br>
     <a href="https://www.internetingishard.com/html-and-css/responsive-images/">Read: Responsive Images</a>
   </td>
   <td>
-    <a href="w02/d1/css-flexbox-grid-lab">CSS Flexbox & Grid Lab (Deliverable #7)</a></br><strong>Due: Next Monday</strong></br></br>
     <a href="w02/d1/media-queries-lab.md">Media Queries Lab</a></br></br>
     <a href="https://flexboxfroggy.com/">Play: Flexbox Froggy</a></br></br>
     <a href="https://cssgridgarden.com/">Play: CSS Grid Garden</a><br><br>
