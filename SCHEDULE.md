@@ -85,9 +85,9 @@
     <a href="w01/d2/js-arrays-lab.md">Lab: JS Arrays (Deliverable #1)</a><br /> <strong>Due: Next Tuesday</strong> <br /><em>(ideal: tonight)</em></br></br>
     <a href="https://www.internetingishard.com/html-and-css/links-and-images/">Read: Links and Images</a></br></br>
     <a href="https://www.internetingishard.com/html-and-css/hello-css/">Read: Hello CSS</a></br></br>
-    <a href="https://www.internetingishard.com/html-and-css/css-box-model/">Read: CSS Box Model</a><br>
-    <a href="https://www.internetingishard.com/html-and-css/css-selectors/">Read: CSS Selectors</a>
-        <a href="https://www.internetingishard.com/html-and-css/floats/">Read: Floats</a></br></br>
+    <a href="https://www.internetingishard.com/html-and-css/css-box-model/">Read: CSS Box Model</a>, 
+    <a href="https://www.internetingishard.com/html-and-css/css-selectors/">Read: CSS Selectors</a>, and
+        <a href="https://www.internetingishard.com/html-and-css/floats/">Read: Floats</a>
   </td>
   <td>
     <a href="w01/d3/js-functions-lab.md">Lab: JS Functions (Deliverable #3)</a><br /><strong>Due: Next Wednesday</strong> <br /><em>(ideal: tonight)</em></br></br>
@@ -106,8 +106,7 @@
     <a href="w02/d1/css-flexbox-grid-lab">CSS Flexbox & Grid Lab (Deliverable #7)</a></br><strong>Due: Next Monday</strong></br></br>
     <a href="w02/d1/media-queries-lab.md">Media Queries Lab</a></br></br>
     <a href="https://flexboxfroggy.com/">Play: Flexbox Froggy</a></br></br>
-    <a href="https://cssgridgarden.com/">Play: CSS Grid Garden</a><br>br>
-    </br>
+    <a href="https://cssgridgarden.com/">Play: CSS Grid Garden</a><br><br>
   </td>
 </tr>
 </tbody>
