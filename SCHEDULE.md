@@ -85,8 +85,8 @@
     <a href="https://www.internetingishard.com/html-and-css/links-and-images/">Read: Links and Images</a></br></br>
     <a href="https://www.internetingishard.com/html-and-css/hello-css/">Read: Hello CSS</a></br></br>
     <a href="https://www.internetingishard.com/html-and-css/css-box-model/">Read: CSS Box Model</a>, 
-    <a href="https://www.internetingishard.com/html-and-css/css-selectors/">Read: CSS Selectors</a>, and
-        <a href="https://www.internetingishard.com/html-and-css/floats/">Read: Floats</a>
+    <a href="https://www.internetingishard.com/html-and-css/css-selectors/">CSS Selectors</a>, and
+        <a href="https://www.internetingishard.com/html-and-css/floats/">Floats</a>
   </td>
   <td>
     <a href="w01/d3/css-selectors-lab">CSS Selectors Lab (Deliverable)</a></br></br>
