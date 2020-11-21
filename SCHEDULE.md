@@ -65,7 +65,8 @@
   <td>
    
   <strong>Outcomes with Zoe the Career Coach</strong> (1:45-3:3:45)<br /><br />
-    <a href="w01/d4/dom-practice-lab-1.md">DOM Lab Part 1 (Deliverable #4)</a></br><strong>Due: Next Thursday</strong>
+    <a href="w01/d4/dom-practice-lab-1.md">DOM Lab Part 1 (Deliverable #4)</a></br><strong>Due: Next Thursday</strong><br><br>
+    <a href="w01/d5/dom-practice-lab-2.md">DOM Lab Part 2 (Deliverable #5)</a></br><strong>Due: Next Friday</strong>
   </td>
   <td>
     <a href="w02/d1/responsive-design.md">Responsive Design</a></br></br>
@@ -78,18 +79,19 @@
   <td>
     <a href="w01/d1/hw-markdown-intro.md">Intro to Markdown</a></br></br>
     <a href="w01/d1/git-intro-workflow.md">Review how to use git</a></br></br>
-    <a href="https://www.internetingishard.com/html-and-css/introduction/">Read Interneting Is Hard: Introduction</a></br></br>
-    <a href="https://www.internetingishard.com/html-and-css/basic-web-pages/">Read: Basic Web Pages</a>
   </td>
   <td>
-    <a href="https://www.internetingishard.com/html-and-css/links-and-images/">Read: Links and Images</a></br></br>
+  
+    <a href="https://www.internetingishard.com/html-and-css/introduction/">Read: HTML & CSS: Introduction</a>, 
+    <a href="https://www.internetingishard.com/html-and-css/basic-web-pages/">Basic Web Pages</a>, and
+    <a href="https://www.internetingishard.com/html-and-css/links-and-images/">Links and Images</a></br></br>
     <a href="https://www.internetingishard.com/html-and-css/hello-css/">Read: Hello CSS</a></br></br>
     <a href="https://www.internetingishard.com/html-and-css/css-box-model/">Read: CSS Box Model</a>, 
-    <a href="https://www.internetingishard.com/html-and-css/css-selectors/">CSS Selectors</a>, and
-        <a href="https://www.internetingishard.com/html-and-css/floats/">Floats</a>
+    <a href="https://www.internetingishard.com/html-and-css/css-selectors/">Read: CSS Selectors</a>, and
+    <a href="https://www.internetingishard.com/html-and-css/floats/">Floats</a><br><br>
+    <a href="https://flukeout.github.io/">Play: CSS Diner</a>
   </td>
   <td>
-    <a href="https://flukeout.github.io/">Play: CSS Diner</a></br></br>
     <a href="https://www.internetingishard.com/html-and-css/forms/">Read: Forms</a>
   </td>
   <td>
