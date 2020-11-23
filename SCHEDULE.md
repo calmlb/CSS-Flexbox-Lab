@@ -82,7 +82,7 @@
     <a href="w01/d1/git-intro-workflow.md">Review how to use git</a>(Skim)
   </td>
   <td>
-    Additional <a href="https://edabit.com/challenges/javascript">Javascript review exercises</a>
+    Additional <a href="https://edabit.com/challenges/javascript">Javascript review exercises</a><br><br>
     <a href="https://www.internetingishard.com/html-and-css/introduction/">Read: HTML & CSS: Introduction</a>, 
     <a href="https://www.internetingishard.com/html-and-css/basic-web-pages/">Basic Web Pages</a>, and
     <a href="https://www.internetingishard.com/html-and-css/links-and-images/">Links and Images</a></br></br>
