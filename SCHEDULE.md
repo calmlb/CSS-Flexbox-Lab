@@ -76,12 +76,13 @@
 <tr>
   <td><strong>Homework</strong></td>
   <td>
-    <a href="https://edabit.com/tutorial/javascript">Edabit javascript tutorial and exercises</a><br><br>
+    <a href="https://edabit.com/tutorial/javascript">Edabit javascript tutorial</a><br><br>
     <strong>Look ahead</strong> at tomorrow's material<br>(and try the exercises<br> (especially loops, arrays, and loops with arrays))<br><br>
     <a href="w01/d1/hw-markdown-intro.md">Intro to Markdown</a>(Skim)</br></br>
     <a href="w01/d1/git-intro-workflow.md">Review how to use git</a>(Skim)
   </td>
   <td>
+    Additional <a href="https://edabit.com/challenges/javascript">Javascript review exercises</a>
     <a href="https://www.internetingishard.com/html-and-css/introduction/">Read: HTML & CSS: Introduction</a>, 
     <a href="https://www.internetingishard.com/html-and-css/basic-web-pages/">Basic Web Pages</a>, and
     <a href="https://www.internetingishard.com/html-and-css/links-and-images/">Links and Images</a></br></br>
