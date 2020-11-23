@@ -76,7 +76,9 @@
 <tr>
   <td><strong>Homework</strong></td>
   <td>
-    <a href="w01/d1/hw-markdown-intro.md">Intro to Markdown</a></br></br>
+    Look ahead at tomorrow's js lecture + try the exercises (especially loops, arrays, and loops with arrays)<br><br>
+    <a href="https://edabit.com/tutorial/javascript">Edabit javascript tutorial and exercises</a><br><br>
+    <a href="w01/d1/hw-markdown-intro.md">Intro to Markdown</a></br></br> (Skim)
     <a href="w01/d1/git-intro-workflow.md">Review how to use git</a></br></br>
   </td>
   <td>
@@ -90,6 +92,7 @@
     <a href="https://flukeout.github.io/">Play: CSS Diner</a>
   </td>
   <td>
+    Look ahead at functions, and DOM<br><br>
     <a href="https://www.internetingishard.com/html-and-css/forms/">Read: Forms</a>
   </td>
   <td>
