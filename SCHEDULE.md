@@ -76,10 +76,10 @@
 <tr>
   <td><strong>Homework</strong></td>
   <td>
-    Look ahead at tomorrow's material<br>(and try the exercises<br> (especially loops, arrays, and loops with arrays))<br><br>
     <a href="https://edabit.com/tutorial/javascript">Edabit javascript tutorial and exercises</a><br><br>
-    <a href="w01/d1/hw-markdown-intro.md">Intro to Markdown</a></br></br> (Skim)
-    <a href="w01/d1/git-intro-workflow.md">Review how to use git</a></br></br> (Skim)
+    <strong>Look ahead</strong> at tomorrow's material<br>(and try the exercises<br> (especially loops, arrays, and loops with arrays))<br><br>
+    <a href="w01/d1/hw-markdown-intro.md">Intro to Markdown</a>(Skim)</br></br>
+    <a href="w01/d1/git-intro-workflow.md">Review how to use git</a>(Skim)
   </td>
   <td>
     <a href="https://www.internetingishard.com/html-and-css/introduction/">Read: HTML & CSS: Introduction</a>, 
