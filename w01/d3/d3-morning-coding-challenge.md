@@ -28,7 +28,7 @@ Have one partner open a new repl.it for HTML/CSS/JS and, working together, write
 
 1. using a javascript prompt(), ask player one to guess either the word "rock" or "paper" or "scissors" and store their guess in a variable called player_one_choice
 1. using a javascript prompt(), ask player two to guess the word "rock" or "paper" or "scissors" and store their guess in a variable called player_two_choice
-    * if you get stuck, you can find the answer <a href="d3-morning-coding-challenge-hint1.md">here</a>.
+    * if you get stuck, you can find a hint <a href="d3-morning-coding-challenge-hint1.md">here</a>.
 1. Next, write some code using "if" and "else if" statements to do the following logic:
     1. if player one's guess is equal to player two's guess, alert("tie game!")
     1. otherwise, if player one's guess is "rock" and player two's guess is "scissors", alert("player one wins")
