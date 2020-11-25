@@ -9,6 +9,8 @@ into Unit 2 and Unit 4 -- their importance cannot be overstated!
 
 To that end, here are some external exercises to give you some basic practice with objects in increasing order of difficulty. You can do these in a new repl.it or codepen.
 
+<i>(Attribution: Some of these exercises were adopted from the online textbook at https://github.com/workshopper/javascripting)</i>
+
 ## Level 0: W3Schools
 <ol>
   <li><a href="https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_objects1">Basic Objects Practice 1 (W3Schools)</a></li>
