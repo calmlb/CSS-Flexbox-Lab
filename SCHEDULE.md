@@ -59,7 +59,7 @@
   </td>
   <td>
     <a href="w01/d4/js-objects.md">JS Objects</a></br></br>
-    <a href="w01/d4/js-objects-practice.md">JS Objects Extra Practice</a><br><br>
+    <a href="w01/d4/js-objects-practice.md">JS Objects Extra Practice Lab</a><br><br>
   </td>
   <td>
    
