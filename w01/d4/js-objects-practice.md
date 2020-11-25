@@ -12,9 +12,9 @@ To that end, here are some external exercises to give you some basic practice wi
 <i>(Attribution: Some of these exercises were adopted from the online textbook at https://github.com/workshopper/javascripting)</i>
 
 ## Level 0: W3Schools
-<ol>
+<ul>
   <li><a href="https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_objects1">Basic Objects Practice 1 (W3Schools)</a></li>
-</ol>
+</ul>
 
 ## Level 1:
 
@@ -134,7 +134,10 @@ let products = [
 ]
 ```
 
-### The challenge
+### The challenge(s)
 
-Use `console.log()` to print just the names of the products to the terminal.
-
+<ol>
+  <li>Use `console.log()` to print just the names of the products to the terminal.</li>
+  <li>Use `console.log()` to print the total price to the terminal</li>
+  <li>(Bonus) Use `console.log()` to print the product that has the highest price to the terminal</li>
+</ol>
