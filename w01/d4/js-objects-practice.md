@@ -136,8 +136,8 @@ let products = [
 
 ### The challenge(s)
 
-<ol>
-  <li>Use `console.log()` to print just the names of the products to the terminal.</li>
-  <li>Use `console.log()` to print the total price to the terminal</li>
-  <li>(Bonus) Use `console.log()` to print the product that has the highest price to the terminal</li>
-</ol>
+
+1. Use `console.log()` to print just the names of the products to the terminal.</li>
+1. Use `console.log()` to print the total price to the terminal</li>
+1. (Bonus) Use `console.log()` to print the product that has the highest price to the terminal</li>
+
