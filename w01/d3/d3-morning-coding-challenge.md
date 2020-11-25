@@ -28,13 +28,13 @@ Have one partner open a new repl.it for HTML/CSS/JS and, working together, write
 
 1. using a javascript prompt(), ask player one to guess either the word "rock" or "paper" or "scissors" and store their guess in a variable called player_one_choice
 1. using a javascript prompt(), ask player two to guess the word "rock" or "paper" or "scissors" and store their guess in a variable called player_two_choice
-    * if you get stuck, you can find the answer <a href="w01/d3/d3-morning-coding-challenge-hint1.md">here</a>.
+    * if you get stuck, you can find the answer <a href="d3-morning-coding-challenge-hint1.md">here</a>.
 1. Next, write some code using "if" and "else if" statements to do the following logic:
     1. if player one's guess is equal to player two's guess, alert("tie game!")
     1. otherwise, if player one's guess is "rock" and player two's guess is "scissors", alert("player one wins")
     1. otherwise, if player one's guess is "rock" and player two's guess is "paper", alert("player two wins")
     1. ... fill out the rest of the logic for player one paper, and player one scissors (4 conditions)
-        * if you get stuck, you can find the answer <a href="w01/d3/d3-morning-coding-challenge-hint2.md">here</a>
+        * if you get stuck, you can find the answer <a href="d3-morning-coding-challenge-hint2.md">here</a>
 
 ## Task 2: Rock Paper Scissors (multi-round version)
 
@@ -42,7 +42,9 @@ Take your rock paper scissors logic from the previous task, and wrap it in a loo
     1. the players are asked to guess "rock" or "paper" or "scissors"
     1. the alert gives them the answer
     1. step 1 and 2 are repeated
-        * if you get stuck, you can find the answer <a href="w01/d3/d3-morning-coding-challenge-hint3.md">here</a>
+        * if you get stuck, you can find the answer <a href="d3-morning-coding-challenge-hint3.md">here</a>
+
+<hr>
 
 #### If you're done Task 2, and some of your classmates are still working on Task 1, feel free to try these bonus activities before your instructor closes the rooms:
 
