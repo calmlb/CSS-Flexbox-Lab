@@ -38,7 +38,7 @@ Take your rock paper scissors logic from the previous task, and wrap it in a loo
     1. step 1 and 2 are repeated
         * if you get stuck, you can find the answer <a href="w01/d3/d3-morning-coding-challenge-hint3.md">here</a>
 
-### If you're done Task 2, and some of your classmates are still working on Task 1, feel free to try these bonus activities before your instructor closes the rooms:
+#### If you're done Task 2, and some of your classmates are still working on Task 1, feel free to try these bonus activities before your instructor closes the rooms:
 
 ## Task 3: RPS Points (Bonus) (Optional)
 
