@@ -12,9 +12,11 @@ Yesterday you officially became a coder. You can now:
 
 Let's get some additional practice with these topics. Your instructor will place you into random breakout rooms. 
 
-For each the following tasks, <b>FIRST</b>: discuss with your partner what you think the answer will be. 
-<b>SECOND</b>: have one of you (maybe the less expert partner) try it on repl.it or codepen.io with the screen share on (driver) while you both discuss (navigator). This way, the more
-experienced partner can benefit from trying to explain concepts, and the less experienced partner can learn from your peer. Everybody wins!
+For each the following tasks, 
+* <b>FIRST</b>: discuss with your partner what you think the answer will be. 
+* <b>SECOND</b>: have one of you (maybe the less expert partner) code it on <a href="https://repl.it">repl.it</a> or <a href="https://codepen.io">codepen.io</a> with the screen share on (driver) while you both discuss (navigator). 
+
+This way, the more experienced partner can benefit from trying to explain concepts, and the less experienced partner can learn from your peer. Everybody wins!
 
 ## Task 1:  Rock Paper Scissors (single round version)
 
