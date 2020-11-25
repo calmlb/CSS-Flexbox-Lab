@@ -10,7 +10,11 @@ Yesterday you officially became a coder. You can now:
 1. write IF statements and logic, and
 1. write loop logic to repeat your code over and over (and over) and over again.
 
-Let's get some additional practice with these topics. Your instructor will place you into random breakout rooms. 
+Let's get some additional practice with these topics.
+
+## Setup
+
+Your instructor will place you into random breakout rooms. 
 
 For each the following tasks, 
 * <b>FIRST</b>: discuss with your partner what you think the answer will be. 
