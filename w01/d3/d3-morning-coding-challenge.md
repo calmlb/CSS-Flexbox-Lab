@@ -43,7 +43,8 @@ Take your rock paper scissors logic from the previous task, and wrap it in a loo
     1. the players are asked to guess "rock" or "paper" or "scissors"
     1. the alert gives them the answer
     1. step 1 and 2 are repeated
-        * if you get stuck, you can find the answer <a href="d3-morning-coding-challenge-hint3.md">here</a>
+
+If you get stuck, you can find the answer <a href="d3-morning-coding-challenge-hint3.md">here</a>
 
 <hr>
 
