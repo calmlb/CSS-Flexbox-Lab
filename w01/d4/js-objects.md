@@ -405,87 +405,6 @@ Students Will Be Able To:
 - The variable name determines the name of the property.
 
 ---
-### Methods
-<br>
-
-- When a property holds a function, we commonly refer to it as a **method** of the object.
-
-- Let's add a `play` _method_ to the `game` object:
-
-	```js
-	game.play = function() {
-	  this.secretNum = Math.floor(Math.random() * 
-	    (this.biggestNum - this.smallestNum + 1)) + this.smallestNum;
-	}
-	```
-
-- Try it out in the console by calling `game.play()` and then checking the value of `game.secretNum` a few times.
-
-- What's with the `this`...
-
----
-### Methods
-<br>
-
-- The `this` keyword represents the "execution context" of a function.
-
-- In this case, `this` is set by JavaScript to be the object the method is called on.
-
-- We will have a dedicated lesson on `this` next week.
-
-- **IMPORTANT:** Due to how `this` is set within _arrow functions_, it's best to avoid using them as methods in objects.
-
----
-### How Variables Reference an Object
-<br>
-
-- As you know, variables are slots in memory that hold a value.
-
-- All non-object data types are known as primitive, or value, types because they hold a single value. Picture a table in memory like this:
-	
-	```
-	SCOPE TABLE            var | value/ref
-	                      -----------------
-	let x = 25        -->   x  |  25
-	var msg = 'hello' -->  msg | 'hello'
-	const y = x       -->   y  |  25
-	```
-	
-- But objects are complex/reference types because they can hold multiple pieces of data...
-
----
-### How Variables Reference an Object
-<br>
-
-- Objects, including Arrays, Functions, etc. are stored in a separate part of memory known as the _heap_. A variable for an object has as its value a "reference" (think pointer):
-
-	```
-	SCOPE TABLE             var | value/ref
-	                       -----------------
-	let x = 25         -->   x  |  25
-	var msg = 'hello'  -->  msg | 'hello'        HEAP 
-	const obj = {a: 1} -->  obj |  ref1   --->  {a: 1} <--|
-	let arr = [1,2]    -->  arr |  ref2   --->  [1,2]     |
-	let obj2 = obj     -->  obj2|  ref1   -----------------
-	```
-
-- Similarly, the elements of an array and the properties of an object hold their values in the same way.
-
----
-### How Variables Reference an Object
-<br>
-
-<p>Now this all makes sense:</p>
-
-```js
-const arr1 = [];
-const arr2 = [];
-const arr3 = arr1;
-arr1 === arr2  // false!
-arr3 === arr1 // true!
-```
-
----
 ### ❓ Essential Questions
 
 - **An object is a collection of zero or more ___________.**
@@ -503,6 +422,87 @@ arr3 === arr1 // true!
 	const age = prompt('Enter your age: ');
 	const person = {name, age};
 	```
+
+---
+### Further Study: Methods
+<br>
+
+- When a property holds a function (which we will look at tomorrow!), we commonly refer to it as a **method** of the object.
+
+- Let's add a `play` _method_ to the `game` object:
+
+	```js
+	game.play = function() {
+	  this.secretNum = Math.floor(Math.random() * 
+	    (this.biggestNum - this.smallestNum + 1)) + this.smallestNum;
+	}
+	```
+
+- Try it out in the console by calling `game.play()` and then checking the value of `game.secretNum` a few times.
+
+- What's with the `this`...
+
+---
+### Further Study: Methods
+<br>
+
+- The `this` keyword represents the "execution context" of a function.
+
+- In this case, `this` is set by JavaScript to be the object the method is called on.
+
+- We will have a dedicated lesson on `this` next week.
+
+- **IMPORTANT:** Due to how `this` is set within _arrow functions_, it's best to avoid using them as methods in objects.
+
+---
+### Further Study: How Variables Reference an Object
+<br>
+
+- As you know, variables are slots in memory that hold a value.
+
+- All non-object data types are known as primitive, or value, types because they hold a single value. Picture a table in memory like this:
+	
+	```
+	SCOPE TABLE            var | value/ref
+	                      -----------------
+	let x = 25        -->   x  |  25
+	var msg = 'hello' -->  msg | 'hello'
+	const y = x       -->   y  |  25
+	```
+	
+- But objects are complex/reference types because they can hold multiple pieces of data...
+
+---
+### Further Study: How Variables Reference an Object
+<br>
+
+- Objects, including Arrays, Functions, etc. are stored in a separate part of memory known as the _heap_. A variable for an object has as its value a "reference" (think pointer):
+
+	```
+	SCOPE TABLE             var | value/ref
+	                       -----------------
+	let x = 25         -->   x  |  25
+	var msg = 'hello'  -->  msg | 'hello'        HEAP 
+	const obj = {a: 1} -->  obj |  ref1   --->  {a: 1} <--|
+	let arr = [1,2]    -->  arr |  ref2   --->  [1,2]     |
+	let obj2 = obj     -->  obj2|  ref1   -----------------
+	```
+
+- Similarly, the elements of an array and the properties of an object hold their values in the same way.
+
+---
+### Further Study: How Variables Reference an Object
+<br>
+
+<p>Now this all makes sense:</p>
+
+```js
+const arr1 = [];
+const arr2 = [];
+const arr3 = arr1;
+arr1 === arr2  // false!
+arr3 === arr1 // true!
+```
 
 ---
 ### Further Study
