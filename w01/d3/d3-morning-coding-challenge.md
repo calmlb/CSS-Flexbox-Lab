@@ -25,9 +25,9 @@ Have one partner open a new repl.it for HTML/CSS/JS and, working together, write
     * if you get stuck, you can find the answer <a href="w01/d3/d3-morning-coding-challenge-hint1.md">here</a>.
 1. Next, write some code using "if" and "else if" statements to do the following logic:
     1. if player one's guess is equal to player two's guess, alert("tie game!")
-		1. otherwise, if player one's guess is "rock" and player two's guess is "scissors", alert("player one wins")
-		1. otherwise, if player one's guess is "rock" and player two's guess is "paper", alert("player two wins")
-		1. ... fill out the rest of the logic for player one paper, and player one scissors (4 conditions)
+    1. otherwise, if player one's guess is "rock" and player two's guess is "scissors", alert("player one wins")
+    1. otherwise, if player one's guess is "rock" and player two's guess is "paper", alert("player two wins")
+    1. ... fill out the rest of the logic for player one paper, and player one scissors (4 conditions)
         * if you get stuck, you can find the answer <a href="w01/d3/d3-morning-coding-challenge-hint2.md">here</a>
 
 ## Task 2: Rock Paper Scissors (multi-round version)
