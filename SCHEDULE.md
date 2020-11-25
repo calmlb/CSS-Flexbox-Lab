@@ -63,7 +63,7 @@
   </td>
   <td>
    
-  <strong>Outcomes with Zoe the Career Coach</strong> (4-6)<br /><br />
+  <strong>Outcomes with Zoe the Career Coach (4-6pm)</strong><br /><br />
     <a href="w01/d4/js-objects-lab.md">Objects+Functions Lab: Guess the Number</a><br><br>
     <a href="w01/d4/dom-practice-lab-1.md">DOM Lab Part 1 (Deliverable #4)</a></br><strong>Due: Next Thursday</strong><br><br>
     <a href="w01/d5/dom-practice-lab-2.md">DOM Lab Part 2 (Deliverable #5)</a></br><strong>Due: Next Friday</strong>
