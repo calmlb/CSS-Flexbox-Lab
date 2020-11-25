@@ -55,7 +55,7 @@
   <td>
     <a href="w01/d2/template-literals-walkthru.md">Template Literals</a></br></br>
     <a href="w01/d2/js-arrays.md">JS Arrays</a></br></br>
-    <a href="w01/d2/js-arrays-lab.md">Lab: JS Arrays (Deliverable #1)</a><br /> <strong>Due: Next Tuesday</strong> <br /><em>(ideal: tonight)</em>
+    <a href="w01/d2/js-arrays-lab.md">Lab: JS Arrays (Deliverable<br /> #1)</a> <strong>Due: Next Tuesday</strong> <br /><em>(ideal: tonight)</em>
   </td>
   <td>
     <a href="w01/d4/js-objects.md">JS Objects</a></br></br>
