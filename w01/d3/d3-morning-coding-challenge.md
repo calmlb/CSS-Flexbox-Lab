@@ -39,6 +39,7 @@ Have one partner open a new repl.it for HTML/CSS/JS and, working together, write
 ## Task 2: Rock Paper Scissors (multi-round version)
 
 Take your rock paper scissors logic from the previous task, and wrap it in a loop such that:
+
     1. the players are asked to guess "rock" or "paper" or "scissors"
     1. the alert gives them the answer
     1. step 1 and 2 are repeated
