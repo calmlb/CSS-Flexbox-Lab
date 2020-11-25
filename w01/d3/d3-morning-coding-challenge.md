@@ -34,17 +34,16 @@ Have one partner open a new repl.it for HTML/CSS/JS and, working together, write
     1. otherwise, if player one's guess is "rock" and player two's guess is "scissors", alert("player one wins")
     1. otherwise, if player one's guess is "rock" and player two's guess is "paper", alert("player two wins")
     1. ... fill out the rest of the logic for player one paper, and player one scissors (4 conditions)
-        * if you get stuck, you can find the answer <a href="d3-morning-coding-challenge-hint2.md">here</a>
 
 ## Task 2: Rock Paper Scissors (multi-round version)
 
 Take your rock paper scissors logic from the previous task, and wrap it in a loop such that
 
-    1. the players are asked to guess "rock" or "paper" or "scissors"
-    1. the alert gives them the answer
-    1. step 1 and 2 are repeated
+   1. the players are asked to guess "rock" or "paper" or "scissors"
+   2. the alert gives them the answer
+   3. step 1 and 2 are repeated
 
-If you get stuck, you can find the answer <a href="d3-morning-coding-challenge-hint3.md">here</a>
+If you get stuck, make sure to double check your logic and your syntax, and refer to the in-class examples from yesterday. You can also ask your instructor for help.
 
 <hr>
 
