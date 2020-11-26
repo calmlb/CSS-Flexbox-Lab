@@ -37,11 +37,11 @@
   <td>
       <a href="w01/d4/js-functions-and-scope.md">JS Functions & Scope</a></br></br>
       <a href="w01/d4/js-functions-lab.md">Lab: JS Functions (Deliverable #3)</a><br /><strong>Due: Next Thursday</strong> <br /><em>(ideal: tonight)</em><br><br>
-      <a href="w01/d4/dom-intro.md">Intro to the DOM</a> and <a href="w01/d5/dom-events.md">DOM Events</a><br><br>
+      <a href="w01/d4/dom-intro.md">Intro to the DOM</a> and <a href="w01/d4/dom-events.md">DOM Events</a><br><br>
   </td>
   <td>
-    <a href="w02/d1/css-flexbox-grid.md">CSS Flexbox & Grid</a></br></br>
-    <a href="w02/d1/css-flexbox-grid-lab">CSS Flexbox & Grid Lab (Deliverable #5)</a></br><strong>Due: Next Monday</strong>    
+    <a href="w01/d5/css-flexbox-grid.md">CSS Flexbox & Grid</a></br></br>
+    <a href="w01/d5/css-flexbox-grid-lab">CSS Flexbox & Grid Lab (Deliverable #5)</a></br><strong>Due: Next Monday</strong>    
   </td>
 </tr>
 
@@ -68,8 +68,8 @@
     <a href="w01/d4/dom-practice-lab-1.md">DOM Lab Part 1 (Deliverable #4)</a></br><strong>Due: Next Thursday</strong><br><br>
   </td>
   <td>
-    <a href="w02/d1/responsive-design.md">Responsive Design</a></br></br>
-    <a href="w02/d1/media-queries-lab.md">Media Queries Lab</a>
+    <a href="w01/d5/responsive-design.md">Responsive Design</a></br></br>
+    <a href="w01/d5/media-queries-lab.md">Media Queries Lab</a>
   </td>
 </tr>
 
@@ -103,7 +103,7 @@
     <a href="https://www.internetingishard.com/html-and-css/responsive-images/">Read: Responsive Images</a>
   </td>
   <td>
-    <a href="w02/d1/media-queries-lab.md">Media Queries Lab</a></br></br>
+    <a href="w01/d5/media-queries-lab.md">Media Queries Lab</a></br></br>
     <a href="https://flexboxfroggy.com/">Play: Flexbox Froggy</a></br></br>
     <a href="https://cssgridgarden.com/">Play: CSS Grid Garden</a><br><br>
   </td>
