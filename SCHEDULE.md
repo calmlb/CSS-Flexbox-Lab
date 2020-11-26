@@ -41,7 +41,7 @@
   </td>
   <td>
     <a href="w02/d1/css-flexbox-grid.md">CSS Flexbox & Grid</a></br></br>
-    <a href="w02/d1/css-flexbox-grid-lab">CSS Flexbox & Grid Lab (Deliverable #6)</a></br><strong>Due: Next Monday</strong>    
+    <a href="w02/d1/css-flexbox-grid-lab">CSS Flexbox & Grid Lab (Deliverable #5)</a></br><strong>Due: Next Monday</strong>    
   </td>
 </tr>
 
@@ -66,7 +66,6 @@
   <strong>Outcomes with Zoe the Career Coach (4-6pm)</strong><br /><br />
     <a href="w01/d3/js-objects-lab.md">Objects+Functions Lab: Guess the Number</a><br><br>
     <a href="w01/d4/dom-practice-lab-1.md">DOM Lab Part 1 (Deliverable #4)</a></br><strong>Due: Next Thursday</strong><br><br>
-    <a href="w01/d5/dom-practice-lab-2.md">DOM Lab Part 2 (Deliverable #5)</a></br><strong>Due: Next Friday</strong>
   </td>
   <td>
     <a href="w02/d1/responsive-design.md">Responsive Design</a></br></br>
