@@ -58,13 +58,13 @@
     <a href="w01/d2/js-arrays-lab.md">Lab: JS Arrays (Deliverable<br /> #1)</a> <strong>Due: Next Tuesday</strong> <br /><em>(ideal: tonight)</em>
   </td>
   <td>
-    <a href="w01/d4/js-objects.md">JS Objects</a></br></br>
-    <a href="w01/d4/js-objects-practice.md">JS Objects Extra Practice Lab</a><br><br>
+    <a href="w01/d3/js-objects.md">JS Objects</a></br></br>
+    <a href="w01/d3/js-objects-practice.md">JS Objects Extra Practice Lab</a><br><br>
   </td>
   <td>
    
   <strong>Outcomes with Zoe the Career Coach (4-6pm)</strong><br /><br />
-    <a href="w01/d4/js-objects-lab.md">Objects+Functions Lab: Guess the Number</a><br><br>
+    <a href="w01/d3/js-objects-lab.md">Objects+Functions Lab: Guess the Number</a><br><br>
     <a href="w01/d4/dom-practice-lab-1.md">DOM Lab Part 1 (Deliverable #4)</a></br><strong>Due: Next Thursday</strong><br><br>
     <a href="w01/d5/dom-practice-lab-2.md">DOM Lab Part 2 (Deliverable #5)</a></br><strong>Due: Next Friday</strong>
   </td>
