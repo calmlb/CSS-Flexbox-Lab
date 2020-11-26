@@ -35,9 +35,9 @@
     <a href="w01/d3/css-selectors-lab">CSS Selectors Lab (Deliverable #2)</a><br /> <strong>Due: Next Wednesday</strong>
   </td>
   <td>
-      <a href="w01/d4/js-functions-and-scope.md">JS Functions & Scope</a></br></br>
-      <a href="w01/d4/js-functions-lab.md">Lab: JS Functions (Deliverable #3)</a><br /><strong>Due: Next Thursday</strong> <br /><em>(ideal: tonight)</em><br><br>
       <a href="w01/d4/dom-intro.md">Intro to the DOM</a> and <a href="w01/d4/dom-events.md">DOM Events</a><br><br>
+      <a href="w01/d4/js-functions-and-scope.md">JS Functions & Scope</a></br></br>
+      <a href="w01/d4/js-functions-lab.md">Lab: JS Functions (Deliverable #3)</a><br /><strong>Due: Next Thursday</strong> <br /><em>(ideal: tonight)</em>
   </td>
   <td>
     <a href="w01/d5/css-flexbox-grid.md">CSS Flexbox & Grid</a></br></br>
