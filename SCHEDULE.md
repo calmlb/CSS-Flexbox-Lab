@@ -64,8 +64,6 @@
   <td>
    
   <strong>Outcomes with Zoe the Career Coach (4-6pm)</strong><br /><br />
-    <a href="w01/d3/js-objects-lab.md">Objects+Functions Lab: Guess the Number</a><br><br>
-    <a href="w01/d4/dom-practice-lab-1.md">DOM Lab Part 1 (Deliverable #4)</a></br><strong>Due: Next Thursday</strong><br><br>
   </td>
   <td>
     <a href="w01/d5/responsive-design.md">Responsive Design</a></br></br>
