@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This lab provides an opportunity to practice defining and coding some real-world functions.
+This lab provides an opportunity to practice defining and coding some real-world functions. Function expressions are covered in the notes, but function declarations can be used instead if you feel more comfortable.
 
 > **Note:** Feel free to work in pairs to complete this lab. Also, Google/StackOverflow is a good friend to have around...
 
