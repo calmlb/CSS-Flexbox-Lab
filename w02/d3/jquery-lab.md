@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This lab provides an opportunity to practice working with jQuery <strong>OR normal DOM functions</strong> (You can choose which to use!)
+This lab provides an opportunity to practice working with jQuery <strong>OR normal DOM functions like document.getElementById()</strong> (You can choose which to use!)
 
 This lab **is optionally a deliverable**. (If you do submit it, we'll count it.)
 
@@ -26,7 +26,7 @@ This lab **is optionally a deliverable**. (If you do submit it, we'll count it.)
 	- Link in `js/main.js` - don't forget the `defer` attribute!
 	- Link in `css/main.css`
 
-4. Load jQuery from the CDN by adding the following **before** your `main.js`:
+4. If you will be doing this lab with normal DOM functions like document.getElementById(), you can skip this step. However, if you choose to use JQuery, you must load jQuery from the CDN by adding the following **before** your `main.js`:
 	
 	```html
 	<script
@@ -51,7 +51,7 @@ This lab **is optionally a deliverable**. (If you do submit it, we'll count it.)
 
 	<img src="https://i.imgur.com/k06ZMEN.png">
 	
-2. Code the following _user stories_, using jQuery where possible:
+2. Code the following _user stories_, using your choice of either (a) normal DOM methods or (b) JQuery:
 
 	- As a User (AAU), I don't want to see any developer skills when the page first loads so that I can start with a fresh slate.
 
