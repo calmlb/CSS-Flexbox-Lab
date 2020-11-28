@@ -69,12 +69,13 @@
 <tr>
   <td><strong>Homework</strong></td>
   <td>
-    Review the <a href="w02/d1/guide-to-building-a-browser-game.md">Guide to Building a Browser Game</a><br><br>
+    Review the <a href="w02/d1/guide-to-building-a-browser-game.md">Guide to Building a Browser Game</a>
   </td>
   <td>
     SEI <a href="README.md#daily-code-challenges">code challenge</a> #1/30
   </td>
   <td>
+    SEI <a href="README.md#daily-code-challenges">code challenge</a> #2/30
   </td>
   <td>
     Planning materials for <a href="project-1">Project 1</a>
