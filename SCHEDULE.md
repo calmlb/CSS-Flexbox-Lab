@@ -4,6 +4,90 @@
 
 <br>
 
+### Week 2 (September 28 - October 2)
+
+<table>
+<thead>
+<tr>
+  <td></td>
+  <th>Monday</th>
+  <th>Tuesday</th>
+  <th>Wednesday</th>
+  <th>Thursday</th>
+  <th>Friday</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Morning</strong></td>
+  <td>
+    <a href="w02/d1/dom-intro.md">Intro to the DOM</a><br><br>
+    <a href="w02/d1/dom-events.md">DOM Events</a><br><br>
+  </td>
+  <td>
+    <a href="w02/d2/playing-audio.md">Playing Audio in Browser</a></br></br>
+    <a href="w02/d2/01-02-rock-paper-scissors">Build "Rock, Paper, Scissors" Together</a>
+  </td>
+  <td>
+    <a href="w02/d3/this-keyword.md">'this' keyword</a><br><br>
+    <a href="w02/d3/js-callbacks.md">JavaScript Callbacks</a></br></br>
+  </td>
+  <td>
+    <a href="w02/d4/arrow-functions.md">Arrow Functions</a></br></br>
+    <a href="w02/d4/array-iterator-methods.md">Array Iterator Methods (an alternate to loops!)</a><br><br>
+  </td>
+  <td>
+    <strong>Project 1 Pitches</strong><br><br>
+    Work on Project 1
+  </td>
+</tr>
+
+
+<tr>
+  <td><strong>Afternoon</strong></td>
+  <td>
+    Dom Lab Part 1<br><br>
+    Dom Events Lab
+  </td>
+  <td>
+    Work on DOM Lab Part 1<br><br>
+    Work on DOM Events Lab
+  </td>
+  <td>
+    <a href="w02/d3/js-classes.md">JS Classes</a></br></br>
+    <a href="w02/d3/js-classes-lab.md">JS Classes Lab</a>
+  </td>
+  <td>
+    <a href="w02/d4/array-methods-lab.md">Array Iterator Methods Lab</a><br><br>
+    <strong>Zoe 4-6pm</strong>
+  </td>
+  <td>
+    Work on Project 1
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Homework</strong></td>
+  <td>
+  </td>
+
+  <td>
+  </td>
+
+  <td>
+  </td>
+
+  <td>
+  </td>
+  <td>
+    Prepare <a href="https://my.generalassemb.ly/activities/511">MyGA - Big O Notation</a>
+   </td>
+</tr>
+
+</tbody>
+</table>
+
 ### Week 1 (November 23 - 27)
 
 <table>
@@ -104,6 +188,7 @@
     <a href="w01/d5/media-queries-lab.md">Media Queries Lab</a></br></br>
     <a href="https://flexboxfroggy.com/">Play: Flexbox Froggy</a></br></br>
     <a href="https://cssgridgarden.com/">Play: CSS Grid Garden</a><br><br>
+    <strong>Look ahead</strong> at DOM and DOM Events lectures
   </td>
 </tr>
 </tbody>
