@@ -69,15 +69,13 @@
 <tr>
   <td><strong>Homework</strong></td>
   <td>
-    Review the <a href="w02/d1/guide-to-building-a-browser-game.md">Guide to Building a Browser Game</a>
+    Review the <a href="w02/d1/guide-to-building-a-browser-game.md">Guide to Building a Browser Game</a><br><br>
   </td>
-
+  <td>
+    Try one of our <a href="README.md#daily-code-challenges">30 coding challenges</a>
+  </td>
   <td>
   </td>
-
-  <td>
-  </td>
-
   <td>
   </td>
   <td>
