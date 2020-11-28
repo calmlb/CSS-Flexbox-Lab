@@ -81,8 +81,9 @@
   <td>
   </td>
   <td>
-    Prepare <a href="https://my.generalassemb.ly/activities/511">MyGA - Big O Notation</a>
-   </td>
+    Prepare <a href="https://my.generalassemb.ly/activities/511">MyGA - Big O Notation</a><br><br>
+    Try some of these fun little gamified <a href="https://edabit.com/challenges">javascript challenges</a>
+  </td>
 </tr>
 
 </tbody>
