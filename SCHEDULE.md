@@ -31,6 +31,7 @@
   </td>
   <td>
     <a href="w02/d3/js-callbacks.md">JavaScript Callbacks</a><br><br>
+  <a href="w01/d5/js-callbacks-lab.md">JavaScript Callbacks Lab (Optional)</a></br></br>
   </td>
   <td>
     <a href="w02/d4/arrow-functions.md">Arrow Functions</a></br></br>
