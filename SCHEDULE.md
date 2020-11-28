@@ -31,8 +31,6 @@
   </td>
   <td>
     <a href="w02/d3/js-callbacks.md">JavaScript Callbacks</a><br><br>
-    <a href="w02/d3/jquery-part-1.md">jQuery part 1</a> and <a href="w02/d3/jquery-part-2.md">jQuery part 2</a><br><br>
-    <a href="w02/d3/jquery-lab.md">DOM/jQuery Lab</a></br>
   </td>
   <td>
     <a href="w02/d4/arrow-functions.md">Arrow Functions</a></br></br>
@@ -56,8 +54,8 @@
     Work on DOM Events Lab
   </td>
   <td>
-    <a href="w02/d3/js-classes.md">JS Classes</a> and <a href="w02/d3/this-keyword.md">'this' keyword</a><br><br>
-    <a href="w02/d3/js-classes-lab.md">JS Classes Lab</a>
+    <a href="w02/d3/jquery-part-1.md">jQuery part 1</a> and <a href="w02/d3/jquery-part-2.md">jQuery part 2</a><br><br>
+    <a href="w02/d3/jquery-lab.md">DOM/jQuery Lab</a></br>
   </td>
   <td>
     <a href="w02/d4/array-methods-lab.md">Array Iterator Methods Lab</a><br><br>
