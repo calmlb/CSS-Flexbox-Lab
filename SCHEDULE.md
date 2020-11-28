@@ -4,7 +4,7 @@
 
 <br>
 
-### Week 2 (September 28 - October 2)
+### Week 2 (November 30 - Dec 4)
 
 <table>
 <thead>
