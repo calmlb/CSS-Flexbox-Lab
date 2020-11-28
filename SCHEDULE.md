@@ -30,7 +30,6 @@
     <a href="w02/d2/01-02-rock-paper-scissors">Build "Rock, Paper, Scissors" Together</a>
   </td>
   <td>
-    <a href="w02/d3/this-keyword.md">'this' keyword</a><br><br>
     <a href="w02/d3/js-callbacks.md">JavaScript Callbacks</a></br></br>
   </td>
   <td>
@@ -55,7 +54,7 @@
     Work on DOM Events Lab
   </td>
   <td>
-    <a href="w02/d3/js-classes.md">JS Classes</a></br></br>
+    <a href="w02/d3/js-classes.md">JS Classes</a> and <a href="w02/d3/this-keyword.md">'this' keyword</a><br><br></br></br>
     <a href="w02/d3/js-classes-lab.md">JS Classes Lab</a>
   </td>
   <td>
