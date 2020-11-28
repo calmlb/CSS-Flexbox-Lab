@@ -30,7 +30,9 @@
     <a href="w02/d2/01-02-rock-paper-scissors">Build "Rock, Paper, Scissors" Together</a>
   </td>
   <td>
-    <a href="w02/d3/js-callbacks.md">JavaScript Callbacks</a></br></br>
+    <a href="w02/d3/js-callbacks.md">JavaScript Callbacks</a><br><br>
+    <a href="w02/d3/jquery-part-1.md">jQuery part 1</a> and <a href="w02/d3/jquery-part-2.md">jQuery part 2</a><br><br>
+    <a href="w02/d3/jquery-lab.md">DOM/jQuery Lab</a></br>
   </td>
   <td>
     <a href="w02/d4/arrow-functions.md">Arrow Functions</a></br></br>
