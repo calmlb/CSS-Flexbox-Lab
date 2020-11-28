@@ -47,7 +47,7 @@
 <tr>
   <td><strong>Afternoon</strong></td>
   <td>
-    Dom Lab Part 1 (Deliverable #5)</a></br><strong>Due: Next Monday</strong><br />
+    Dom Lab Part 1 (Deliverable #5)</a></br><strong>Due: Next Monday</strong><br><br>
     Dom Events Lab (Deliverable #6)</a></br><strong>Due: Next Monday</strong><br />
   </td>
   <td>
