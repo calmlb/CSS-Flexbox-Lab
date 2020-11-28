@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This lab provides an opportunity to practice working with jQuery.
+This lab provides an opportunity to practice working with jQuery <strong>OR normal DOM functions</strong> (You can choose which to use!)
 
 This lab **is optionally a deliverable**. (If you do submit it, we'll count it.)
 
