@@ -82,7 +82,6 @@
   </td>
   <td>
     Prepare <a href="https://my.generalassemb.ly/activities/511">MyGA - Big O Notation</a><br><br>
-    Try some of these fun little gamified <a href="https://edabit.com/challenges">javascript challenges</a>
   </td>
 </tr>
 
@@ -187,8 +186,8 @@
   </td>
   <td>
     <a href="w01/d5/media-queries-lab.md">Media Queries Lab</a></br></br>
-    <a href="https://flexboxfroggy.com/">Play: Flexbox Froggy</a></br></br>
-    <a href="https://cssgridgarden.com/">Play: CSS Grid Garden</a><br><br>
+    <a href="https://flexboxfroggy.com/">Play: Flexbox Froggy</a> or <a href="https://cssgridgarden.com/">Play: CSS Grid Garden</a><br><br>
+    Try some of these fun little gamified <a href="https://edabit.com/challenges">javascript challenges</a><br><br>
     <strong>Look ahead</strong> at DOM and DOM Events lectures
   </td>
 </tr>
