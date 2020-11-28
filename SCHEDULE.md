@@ -39,6 +39,7 @@
   </td>
   <td>
     <strong>Project 1 Pitches</strong><br><br>
+    A brief discussion of js classes<br><br>
     Work on Project 1
   </td>
 </tr>
@@ -54,7 +55,7 @@
     <a href="w02/d2/tic-tac-toe">Tic Tac Toe (Deliverable #7)</a></br><strong>Due: Next Tuesday</strong><br />
   </td>
   <td>
-    <a href="w02/d3/jquery-part-1.md">jQuery part 1</a> and <a href="w02/d3/jquery-part-2.md">jQuery part 2</a><br><br>
+    <a href="w02/d3/jquery-part-1.md">jQuery part 1</a> and <a href="w02/d3/jquery-part-2.md">part 2</a><br><br>
     <a href="w02/d3/jquery-lab.md">DOM/jQuery Lab</a></br>
   </td>
   <td>
