@@ -70,7 +70,7 @@
 <tr>
   <td><strong>Homework</strong></td>
   <td>
-    Review the <a href="w01/d5/guide-to-building-a-browser-game.md">Guide to Building a Browser Game</a>
+    Review the <a href="w02/d1/guide-to-building-a-browser-game.md">Guide to Building a Browser Game</a>
   </td>
 
   <td>
