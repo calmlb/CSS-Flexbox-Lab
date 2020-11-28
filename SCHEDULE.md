@@ -47,13 +47,13 @@
 <tr>
   <td><strong>Afternoon</strong></td>
   <td>
-    Dom Lab Part 1<br><br>
-    Dom Events Lab
+    Dom Lab Part 1 (Deliverable #5)</a></br><strong>Due: Next Monday</strong><br />
+    Dom Events Lab (Deliverable #6)</a></br><strong>Due: Next Monday</strong><br />
   </td>
   <td>
     Work on DOM Lab Part 1<br><br>
     Work on DOM Events Lab<br><br>
-    <a href="w02/d1/tic-tac-toe">Tic Tac Toe (Deliverable #5)</a></br><strong>Due: Next Monday</strong><br />
+    <a href="w01/d1/tic-tac-toe">Tic Tac Toe (Deliverable #7)</a></br><strong>Due: Next Tuesday</strong><br />
   </td>
   <td>
     <a href="w02/d3/jquery-part-1.md">jQuery part 1</a> and <a href="w02/d3/jquery-part-2.md">jQuery part 2</a><br><br>
