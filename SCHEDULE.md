@@ -35,7 +35,7 @@
   </td>
   <td>
     <a href="w02/d4/arrow-functions.md">Arrow Functions</a></br></br>
-    <a href="w02/d4/array-iterator-methods.md">Array Iterator Methods (an alternate to loops!)</a><br><br>
+    <a href="w02/d4/array-iterator-methods.md">Array Iterator Methods</a> (an alternate to loops!)<br><br>
   </td>
   <td>
     <strong>Project 1 Pitches</strong><br><br>
