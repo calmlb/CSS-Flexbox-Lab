@@ -72,11 +72,12 @@
     Review the <a href="w02/d1/guide-to-building-a-browser-game.md">Guide to Building a Browser Game</a><br><br>
   </td>
   <td>
-    Try one of our <a href="README.md#daily-code-challenges">30 coding challenges</a>
+    SEI <a href="README.md#daily-code-challenges">code challenge</a> #1/30
   </td>
   <td>
   </td>
   <td>
+    Planning materials for <a href="project-1">Project 1</a>
   </td>
   <td>
     Prepare <a href="https://my.generalassemb.ly/activities/511">MyGA - Big O Notation</a><br><br>
