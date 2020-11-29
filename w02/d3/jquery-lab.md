@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This lab provides an opportunity to practice working with jQuery <strong>OR normal DOM functions like document.getElementById()</strong> (You can choose which to use!)
+This lab provides an opportunity to practice working with jQuery <strong>OR normal DOM functions like document.getElementById()</strong> (You can choose which to use! Ideally, try to do both so that you can gain experience with both.)
 
 This lab **is optionally a deliverable**. (If you do submit it, we'll count it.)
 
