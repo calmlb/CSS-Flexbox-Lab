@@ -27,6 +27,7 @@
   </td>
   <td>
     <a href="w02/d2/playing-audio.md">Playing Audio in Browser</a></br></br>
+    <a href="w02/d2/guide-to-building-a-browser-game.md">Guide to Building a Browser Game</a><br><br>
     <a href="w02/d2/01-02-rock-paper-scissors">Build "Rock, Paper, Scissors" Together</a>
   </td>
   <td>
