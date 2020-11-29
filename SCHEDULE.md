@@ -49,8 +49,8 @@
 <tr>
   <td><strong>Afternoon</strong></td>
   <td>
-    Dom Lab Part 1 (Deliverable #5)</a></br><strong>Due: Next Monday</strong><br><br>
-    Dom Events Lab (Deliverable #6)</a></br><strong>Due: Next Monday</strong><br />
+    <a href="w02/d1/dom-practice-lab-1.md">Dom Lab Part 1: Intro to the DOM(Deliverable #5)</a></br><strong>Due: Next Monday</strong><br><br>
+    Dom Lab Part 2: Events (Deliverable #6)</a></br><strong>Due: Next Monday</strong><br />
   </td>
   <td>
     <a href="w02/d2/tic-tac-toe">Tic Tac Toe (Deliverable #7)</a></br><strong>Due: Next Tuesday</strong><br />
