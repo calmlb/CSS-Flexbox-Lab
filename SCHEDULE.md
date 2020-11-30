@@ -27,11 +27,12 @@
   </td>
   <td>
     <a href="w02/d2/playing-audio.md">Playing Audio in Browser</a></br></br>
+    <a href="w02/d2/guide-to-building-a-browser-game.md">Guide to Building a Browser Game</a><br><br>
     <a href="w02/d2/01-02-rock-paper-scissors">Build "Rock, Paper, Scissors" Together</a>
   </td>
   <td>
     <a href="w02/d3/js-callbacks.md">JavaScript Callbacks</a><br><br>
-  <a href="w01/d5/js-callbacks-lab.md">JavaScript Callbacks Lab (Optional)</a></br></br>
+  <a href="w02/d3/js-callbacks-lab.md">JavaScript Callbacks Lab (Optional)</a></br></br>
   </td>
   <td>
     <a href="w02/d4/arrow-functions.md">Arrow Functions</a></br></br>
@@ -39,6 +40,7 @@
   </td>
   <td>
     <strong>Project 1 Pitches</strong><br><br>
+    A brief discussion of js classes<br><br>
     Work on Project 1
   </td>
 </tr>
@@ -47,14 +49,14 @@
 <tr>
   <td><strong>Afternoon</strong></td>
   <td>
-    Dom Lab Part 1 (Deliverable #5)</a></br><strong>Due: Next Monday</strong><br><br>
-    Dom Events Lab (Deliverable #6)</a></br><strong>Due: Next Monday</strong><br />
+    <a href="w02/d1/dom-practice-lab-1.md">Dom Lab Part 1: Intro to the DOM</a> (Deliverable #5)</br><strong>Due: Next Monday</strong><br><br>
+    Dom Lab Part 2: Events (Deliverable #6)</a></br><strong>Due: Next Monday</strong><br />
   </td>
   <td>
     <a href="w02/d2/tic-tac-toe">Tic Tac Toe (Deliverable #7)</a></br><strong>Due: Next Tuesday</strong><br />
   </td>
   <td>
-    <a href="w02/d3/jquery-part-1.md">jQuery part 1</a> and <a href="w02/d3/jquery-part-2.md">jQuery part 2</a><br><br>
+    <a href="w02/d3/jquery-part-1.md">jQuery part 1</a> and <a href="w02/d3/jquery-part-2.md">part 2</a><br><br>
     <a href="w02/d3/jquery-lab.md">DOM/jQuery Lab</a></br>
   </td>
   <td>
@@ -71,18 +73,18 @@
   <td>
     Review the <a href="w02/d1/guide-to-building-a-browser-game.md">Guide to Building a Browser Game</a>
   </td>
-
   <td>
-  </td>
-
-  <td>
-  </td>
-
-  <td>
+    SEI <a href="README.md#daily-code-challenges">code challenge</a> #1/30
   </td>
   <td>
-    Prepare <a href="https://my.generalassemb.ly/activities/511">MyGA - Big O Notation</a>
-   </td>
+    SEI <a href="README.md#daily-code-challenges">code challenge</a> #2/30
+  </td>
+  <td>
+    Planning materials for <a href="project-1">Project 1</a>
+  </td>
+  <td>
+    Prepare <a href="https://my.generalassemb.ly/activities/511">MyGA - Big O Notation</a><br><br>
+  </td>
 </tr>
 
 </tbody>
@@ -186,8 +188,8 @@
   </td>
   <td>
     <a href="w01/d5/media-queries-lab.md">Media Queries Lab</a></br></br>
-    <a href="https://flexboxfroggy.com/">Play: Flexbox Froggy</a></br></br>
-    <a href="https://cssgridgarden.com/">Play: CSS Grid Garden</a><br><br>
+    <a href="https://flexboxfroggy.com/">Play: Flexbox Froggy</a> or <a href="https://cssgridgarden.com/">Play: CSS Grid Garden</a><br><br>
+    Try some of these fun little gamified <a href="https://edabit.com/challenges">javascript challenges</a><br><br>
     <strong>Look ahead</strong> at DOM and DOM Events lectures
   </td>
 </tr>
