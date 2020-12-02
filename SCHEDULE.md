@@ -37,9 +37,10 @@
   <td>
     <a href="w02/d4/arrow-functions.md">Arrow Functions</a></br></br>
     <a href="w02/d4/array-iterator-methods.md">Array Iterator Methods</a> (an alternate to loops!)<br><br>
+    Work on planning materials for <a href="project-1">Project 1</a>
   </td>
   <td>
-    <strong>Project 1 Pitches</strong><br><br>
+    <strong>Project 1 Pitches/Planning Materials due!</strong><br><br>
     'this' and Javascript Classes<br><br>
     Work on Project 1
   </td>
