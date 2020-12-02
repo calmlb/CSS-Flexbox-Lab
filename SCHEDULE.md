@@ -40,7 +40,7 @@
   </td>
   <td>
     <strong>Project 1 Pitches</strong><br><br>
-    A brief discussion of js classes<br><br>
+    'this' and Javascript Classes<br><br>
     Work on Project 1
   </td>
 </tr>
