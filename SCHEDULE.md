@@ -26,21 +26,22 @@
     <a href="w02/d1/dom-events.md">DOM Events</a><br><br>
   </td>
   <td>
-    <a href="w02/d2/playing-audio.md">Playing Audio in Browser</a></br></br>
     <a href="w02/d2/guide-to-building-a-browser-game.md">Guide to Building a Browser Game</a><br><br>
-    <a href="w02/d2/01-02-rock-paper-scissors">Build "Rock, Paper, Scissors" Together</a>
+    <a href="w02/d2/01-02-rock-paper-scissors">Rock, Paper, Scissors Showdown: Human vs Computer</a> (Build together)
   </td>
   <td>
+    <a href="w02/d2/playing-audio.md">Playing Audio in Browser</a></br></br>
     <a href="w02/d3/js-callbacks.md">JavaScript Callbacks</a><br><br>
-  <a href="w02/d3/js-callbacks-lab.md">JavaScript Callbacks Lab (Optional)</a></br></br>
+    <a href="w02/d3/js-callbacks-lab.md">JavaScript Callbacks Lab (Optional)</a></br></br>
   </td>
   <td>
     <a href="w02/d4/arrow-functions.md">Arrow Functions</a></br></br>
     <a href="w02/d4/array-iterator-methods.md">Array Iterator Methods</a> (an alternate to loops!)<br><br>
+    Work on planning materials for <a href="project-1">Project 1</a>
   </td>
   <td>
-    <strong>Project 1 Pitches</strong><br><br>
-    A brief discussion of js classes<br><br>
+    <strong>Project 1 Pitches/Planning Materials due!</strong><br><br>
+    'this' and Javascript Classes<br><br>
     Work on Project 1
   </td>
 </tr>
@@ -50,7 +51,7 @@
   <td><strong>Afternoon</strong></td>
   <td>
     <a href="w02/d1/dom-practice-lab-1.md">Dom Lab Part 1: Intro to the DOM</a> (Deliverable #5)</br><strong>Due: Next Monday</strong><br><br>
-    Dom Lab Part 2: Events (Deliverable #6)</a></br><strong>Due: Next Monday</strong><br />
+    <a href="w02/d1/dom-events-lab.md">Dom Lab Part 2: Events</a> (Deliverable #6)</a></br><strong>Due: Next Monday</strong><br />
   </td>
   <td>
     <a href="w02/d2/tic-tac-toe">Tic Tac Toe (Deliverable #7)</a></br><strong>Due: Next Tuesday</strong><br />
