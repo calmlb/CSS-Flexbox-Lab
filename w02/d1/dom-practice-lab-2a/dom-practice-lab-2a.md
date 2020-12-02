@@ -128,7 +128,7 @@ If you do need any hints, feel free to consult the hints below:
 ## Step 4: Cache the DOM
 1. In the cached element references section, declare a variable called input1 and store a reference to the ```<input>``` element that has id="input1". Hint: you can use the document.getElementById() method
 2. Similarly, declare a variable called span1 and store a reference to the ```<span>``` element that has id="span1".
-3. Similarly, declare a variable called span1 and store a reference to the ```<button>``` element that has id="btn1".
+3. Similarly, declare a variable called btn1 and store a reference to the ```<button>``` element that has id="btn1".
 
 ## Step 5. Attach an Event Listener:
 
