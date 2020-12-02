@@ -26,13 +26,13 @@
     <a href="w02/d1/dom-events.md">DOM Events</a><br><br>
   </td>
   <td>
-    <a href="w02/d2/playing-audio.md">Playing Audio in Browser</a></br></br>
     <a href="w02/d2/guide-to-building-a-browser-game.md">Guide to Building a Browser Game</a><br><br>
     <a href="w02/d2/01-02-rock-paper-scissors">Rock, Paper, Scissors Showdown: Human vs Computer</a> (Build together)
   </td>
   <td>
+    <a href="w02/d2/playing-audio.md">Playing Audio in Browser</a></br></br>
     <a href="w02/d3/js-callbacks.md">JavaScript Callbacks</a><br><br>
-  <a href="w02/d3/js-callbacks-lab.md">JavaScript Callbacks Lab (Optional)</a></br></br>
+    <a href="w02/d3/js-callbacks-lab.md">JavaScript Callbacks Lab (Optional)</a></br></br>
   </td>
   <td>
     <a href="w02/d4/arrow-functions.md">Arrow Functions</a></br></br>
