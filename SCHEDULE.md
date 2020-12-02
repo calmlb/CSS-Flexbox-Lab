@@ -30,7 +30,6 @@
     <a href="w02/d2/01-02-rock-paper-scissors">Rock, Paper, Scissors Showdown: Human vs Computer</a> (Build together)
   </td>
   <td>
-    <a href="w02/d2/playing-audio.md">Playing Audio in Browser</a></br></br>
     <a href="w02/d3/js-callbacks.md">JavaScript Callbacks</a><br><br>
     <a href="w02/d3/js-callbacks-lab.md">JavaScript Callbacks Lab (Optional)</a></br></br>
   </td>
@@ -41,7 +40,8 @@
   </td>
   <td>
     <strong>Project 1 Pitches/Planning Materials due!</strong><br><br>
-    'this' and Javascript Classes<br><br>
+    <a href="w02/d2/playing-audio.md">Playing Audio in Browser</a></br></br>
+    Javascript Classes/this<br><br>
     Work on Project 1
   </td>
 </tr>
