@@ -1,0 +1,92 @@
+*{
+    box-sizing: border-box;
+  }
+
+/* Flex Properties */
+.great-grandparent {
+  display: flex;
+  flex-grow: 1;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.grandparent1 {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: center;
+  order: 1;
+  margin: 10px;
+  border: 3 px solid red;
+  background-color: #dfdfdf;
+}
+
+.grandparent2 {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 4;
+  order: 2;
+  margin: 10px;
+  border: 3 px solid red;
+  background-color: #dfdfdf;
+}
+
+.parent1 {
+  height: 150px;
+  width: 150px;
+  margin: 10px;
+  border: 3 px solid blue;
+}
+
+nav {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    height: 110px;
+    margin: 10px;
+}
+
+.parent2 { 
+  flex-grow: 1;
+  margin: 10px;
+  border: 3 px solid blue;
+  background-color: green;
+}
+
+#child2 {
+  max-width: 2400px;
+  max-height: 250px;
+}
+
+img {
+max-width: 250px;
+max-height: 250px;
+margin: 10px;
+padding: auto;
+}
+
+.parent3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-grow: 1;
+  margin: 10px;
+  border: 3 px solid blue;
+  background-color: green;
+}
+
+.parent4 {
+  display:flex;
+  flex-direction: row;
+  flex-grow: 1;
+  margin: 10px;
+  border: 3 px solid blue;
+  background-color: green;
+}
+
+body {
+    height: 100vh;
+	  font-family: Helvetica;
+	  margin: 0;
+    display: flex;
+    border: 10px solid red;
